@@ -1,8 +1,7 @@
 {
   "name": "strapi-provider-upload-local-with-path",
-  "version": "3.0.0-beta.20.1",
+  "version": "1.0.0",
   "description": "Local provider for strapi upload with path ",
-  "homepage": "http://strapi.io",
   "keywords": [
     "upload",
     "strapi"
