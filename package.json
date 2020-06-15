@@ -1,0 +1,45 @@
+{
+  "name": "strapi-provider-upload-local-with-path",
+  "version": "3.0.0-beta.20.1",
+  "description": "Local provider for strapi upload with path ",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "strapi"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "hi@strapi.io",
+    "name": "Strapi team",
+    "url": "http://strapi.io"
+  },
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/muaddub/strapi-provider-upload-local-with-path"
+  },
+  "bugs": {
+    "url": "https://github.com/muaddub/strapi-provider-upload-local-with-path/issues"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "gitHead": "6a6d53b4029c4b08837c8fd2a6aea820b91ce18a"
+}
